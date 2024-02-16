@@ -24,3 +24,4 @@ Tab:AddToggle({
 	end    
 })
 
+OrionLib:Init()
