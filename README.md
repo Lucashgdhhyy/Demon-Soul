@@ -1,7 +1,7 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "Stouks X [Versão Premium]", HidePremium = false, SaveConfig = false, ConfigFolder = "Blade Ball","Ninja Legends"})
 local Tab = Window:MakeTab({
-	Name = "Discord",
+	Name = "Combat",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
